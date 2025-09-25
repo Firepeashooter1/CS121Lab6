@@ -1,5 +1,1 @@
-#include fstream, iostream, and string
-
-#int main:
- #for i in range amount of objects in array on each line:
-  #print the word for its line
+# this file orignally had a purpose dont know how to delete it lol.
