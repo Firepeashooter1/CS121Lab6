@@ -11,7 +11,7 @@ int main() {
         std::stringstream ss(line);
 
         int numOne, numTwo;
-	char comma;
+		char comma;
 
         std::string word;
 

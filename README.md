@@ -1,7 +1,14 @@
 # CS121Lab6
 
-## include fstream, iostream, and string
+include iostream, fstream, sstream, string
 
-## int main:
-##  for i in range amount of objects in array on each line:
-##   print the word for its line
+int main:
+
+> get data.csv file
+> create string
+
+> while getline(file and line):
+> > strinfstream ss(line);
+
+> > create 2 ints
+> > create a char
