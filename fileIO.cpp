@@ -6,14 +6,13 @@
 int main() {
     std::ifstream file("data.csv");
     std::string line;
+    std::string word;
 
     while (std::getline(file, line)) {
         std::stringstream ss(line);
 
         int numOne, numTwo;
-		char comma;
-
-        std::string word;
+	char comma;
 
         ss >> numOne >> comma >> numTwo >> comma >> word;
 
